@@ -1,14 +1,14 @@
 # Intro-ACTP
 
 ## Meta
-Author:         1sun12 / Regan OD
-Start Date:     June 27th, 26'
+- Author:         1sun12 / Regan OD
+- Start Date:     June 27th, 26'
 
 ## Dev. Environment
-IDE:            NeoVIM / TTY
-OS:             Pop!_OS (Debian / apt)
-Architecture:   x86_64
-Pac. Man.:      apt (ie. "sudo apt install -y foobar")
+- IDE:            NeoVIM / TTY
+- OS:             Pop!_OS (Debian / apt)
+- Architecture:   x86_64
+- Pac. Man.:      apt (ie. "sudo apt install -y foobar")
 
 ## Description
 Together, this repository represents my daily study practices as I prepare for the MANTECH ACTP certification exam that is typically taken before enrollment to the course. 
